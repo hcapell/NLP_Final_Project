@@ -1,3 +1,4 @@
-This repo contains code and data for my NLP Final Project, entitled â€œInvestigating relationships between movie dialogue and movie genreâ€.
+This repo contains code and data for my NLP Final Project, entitled "€œInvestigating relationships between movie dialogue and movie genre€."
 
-Data can be found in the data folder.  The README file in the data folder contains metadata information for the data.
+Data can be found here:
+https://www.kaggle.com/rajathmc/cornell-moviedialog-corpus/data
